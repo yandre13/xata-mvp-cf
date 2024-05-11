@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Yaser-Andre-s-workspace-hre58l.us-east-1.xata.sh/db/mybase",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
